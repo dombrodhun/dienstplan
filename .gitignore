@@ -1,0 +1,22 @@
+# Python Bytecode und Caches
+__pycache__/
+*.pyc
+
+# Virtuelle Umgebungen
+.venv/
+venv/
+ENV/
+
+# Konfigurationsdateien mit sensiblen Daten
+.env
+
+# Google API Credentials
+token.json
+client_secret_*.json
+
+# Betriebssystem-spezifische Dateien
+.DS_Store
+Thumbs.db
+
+# dienstplan
+*.csv
