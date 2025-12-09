@@ -18,6 +18,3 @@ client_secret_*.json
 # dienstplan
 *.csv
 *.pdf
-
-# KI Prompt
-prompt.json

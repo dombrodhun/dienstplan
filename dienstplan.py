@@ -22,7 +22,6 @@ load_dotenv()
 # If modifying these scopes, delete the file token.json.
 SCOPES = ["https://www.googleapis.com/auth/calendar"]
 CREDENTIALS = os.getenv("GOOGLE_CREDENTIALS_FILE")
-
 CALENDAR_ID = os.getenv("GOOGLE_CALENDAR_ID")
 CSV_PATH = os.getenv("CSV_FILE_PATH")
 
